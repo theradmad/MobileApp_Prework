@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld2</string>
+    <string name="say_hello">Say Hello!</string>
+    <string name="hello_my_name_is_madeline_and_i_am_a_senior_computer_science_major_at_howard_university">Hello! My name is Madeline and I am a senior computer science major at Howard University.</string>
+</resources>
